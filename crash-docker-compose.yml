@@ -1,0 +1,3 @@
+CRASHINATOR:
+  image: 'joffotron/crashinator:latest'
+  restart: always

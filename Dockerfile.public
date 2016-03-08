@@ -1,0 +1,5 @@
+FROM scratch
+
+COPY bin/public /public
+CMD ["/public"]
+EXPOSE 8080

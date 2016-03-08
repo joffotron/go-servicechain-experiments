@@ -1,0 +1,5 @@
+FROM scratch
+
+COPY bin/backend /backend
+CMD ["/backend"]
+EXPOSE 8000

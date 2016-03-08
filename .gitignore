@@ -1,0 +1,11 @@
+.idea
+bin
+*.iml
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
+
